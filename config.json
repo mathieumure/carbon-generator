@@ -1,0 +1,40 @@
+{
+    "latest-preset": {
+        "t": "base16-light",
+        "bg": "none",
+        "wt": "none",
+        "wc": false,
+        "fm": "Hack",
+        "fs": "14px",
+        "ln": true,
+        "ds": false,
+        "dsyoff": "51px",
+        "dsblur": "68px",
+        "wa": true,
+        "pv": "0px",
+        "ph": "0px",
+        "si": false,
+        "wm": false,
+        "es": "2x",
+        "type": "png"
+      },
+      "presentation": {
+        "t": "base16-light",
+        "bg": "none",
+        "wt": "none",
+        "wc": false,
+        "fm": "Hack",
+        "fs": "14px",
+        "ln": true,
+        "ds": false,
+        "dsyoff": "51px",
+        "dsblur": "68px",
+        "wa": true,
+        "pv": "0px",
+        "ph": "0px",
+        "si": false,
+        "wm": false,
+        "es": "2x",
+        "type": "png"
+    }
+  }
